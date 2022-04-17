@@ -25,11 +25,11 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link text-light" href="index.php">HOME</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song 1.php">Song_1</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song 2.php">Song_2</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song 3.php">Song_3</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song 4.php">Song_4</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song 5.php">Song_5</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song1.php">Song_1</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song2.php">Song_2</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song3.php">Song_3</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song4.php">Song_4</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song5.php">Song_5</a></li>
                     </ul>
                     </ul>
                 </div>
