@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -73,7 +75,7 @@
                 </div>
             </div>
         </section>
-
+         <!-- footer-->
         <footer class="py-3 bg-info">
             <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Jared Simon R. Danao</p></div>
         </footer>
